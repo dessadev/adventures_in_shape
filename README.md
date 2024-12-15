@@ -1,4 +1,4 @@
-<img src="logotipoais.png" alt="Adventure in Shapes" style="max-width: 300px;">
+<img src="logoh.png" alt="Adventure in Shapes" style="width: 280px; height: auto;">
 
 # Adventure in Shapes
 
