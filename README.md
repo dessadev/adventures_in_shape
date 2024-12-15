@@ -1,3 +1,5 @@
+<img src="logotipoais.png" alt="Adventure in Shapes" style="max-width: 300px;">
+
 # Adventure in Shapes
 
 ## Introdução
