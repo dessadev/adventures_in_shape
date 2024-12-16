@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/m_plus_rounded_1c</item>
+        <item>@font/m_plus_rounded_1c_black</item>
+        <item>@font/m_plus_rounded_1c_bold</item>
+        <item>@font/m_plus_rounded_1c_extrabold</item>
+        <item>@font/m_plus_rounded_1c_light</item>
+    </array>
+</resources>
