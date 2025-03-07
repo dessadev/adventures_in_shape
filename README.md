@@ -23,10 +23,10 @@
 - **Android Navigation** para navegação entre telas e otimização da experiência do usuário.
 - **Material3** para componentes visuais bonitos e funcionais.
 
-#🚨 Aviso de Direitos Autorais
+### 🚨 Aviso de Direitos Autorais
 
-📌 Copyright (c) 2025 Andressa Prudente (@dessadev)
-Este projeto é protegido por direitos autorais. A cópia, modificação ou distribuição sem permissão são proibidas.
+📌 *Copyright (c) 2025 Andressa Prudente (@dessadev)*  
+Este projeto é protegido por direitos autorais. A cópia, modificação ou distribuição sem permissão são proibidas.  
 
-Se precisar de permissão para uso, entre em contato:
-🔗 GitHub: dessadev
+Se precisar de permissão para uso, entre em contato:  
+🔗 [GitHub: dessadev](https://github.com/dessadev)
