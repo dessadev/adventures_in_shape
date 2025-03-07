@@ -1,3 +1,11 @@
+# 🚨 Aviso de Direitos Autorais
+
+📌 *Copyright (c) 2025 Andressa Prudente (@dessadev)*  
+Este projeto é protegido por direitos autorais. A cópia, modificação ou distribuição sem permissão são proibidas.  
+
+Se precisar de permissão para uso, entre em contato:  
+🔗 [GitHub: dessadev](https://github.com/dessadev)
+
 <img src="logoh.png" alt="Adventure in Shapes" style="width: 280px; height: auto;">
 
 # Adventure in Shapes
